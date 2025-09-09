@@ -2,13 +2,13 @@
 
 👋 Hi there! I'm Renojan (Reno) Kannan, a passionate 4th-year Computer Science student at the University of Ottawa. I'm currently working under Professor Amir Razavi from the University of Ottawa, immersing myself in the world of natural language processing and deep learning.
 
-🚀 ** What I'm Currently Working On: **
+🚀 <strong>What I'm Currently Working On:</strong>
 - Fine-Tuning LLMs for Phishing Email Detection and Explanation using NLP.
   
-📚 ** What I'm Learning: **
+📚 **What I'm Learning:**
 - TensorFlow and Scikit-learn for machine learning applications.
 
-💡 ** Ask Me About: **
+💡 **Ask Me About:**
 
 ## 🛠️ Tech Stack 
 
@@ -25,7 +25,9 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
 
 ### Development Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
+
+## Socials
 
 
 <!--
