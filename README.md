@@ -1,4 +1,4 @@
-✨ ## About Me:
+## ✨ About Me:
 👋 Hi there! I'm Renojan (Reno) Kannan, a passionate 4th-year Computer Science student at the University of Ottawa. I'm currently working under Professor Amir Razavi from the University of Ottawa, immersing myself in the world of natural language processing and deep learning. As I finish up my last semester, I am on the hunt for full-time SWE and AI/ML Developer Roles!
 
 🚀**What I'm Currently Working On:**
@@ -27,7 +27,7 @@
 ### Development Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
-🌐 ## Socials
+## 🌐 Socials
 [![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renojan-kannan/)
 
 <!--
