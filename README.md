@@ -1,17 +1,15 @@
 ## About Me:
-<p>
 👋 Hi there! I'm Renojan (Reno) Kannan, a passionate 4th-year Computer Science student at the University of Ottawa. I'm currently working under Professor Amir Razavi from the University of Ottawa, immersing myself in the world of natural language processing and deep learning. As I finish up my last semester, I am on the hunt for full-time SWE and AI/ML Developer Roles!
 
 🚀<strong>What I'm Currently Working On:</strong>
 
-- Fine-Tuning LLMs for Phishing Email Detection and Explanation using NLP.
+\- Fine-Tuning LLMs for Phishing Email Detection and Explanation using NLP.
 
 📚 <strong>What I'm Learning:</strong>
 
-- TensorFlow and Scikit-learn for machine learning applications.
+\- TensorFlow and Scikit-learn for machine learning applications.
 
 💡 <strong>Ask Me About:</strong>
-</p>
 
 ## 🛠️ Tech Stack 
 
@@ -31,7 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 ## Socials
-
+[![Portfolio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renojan-kannan/)
 
 <!--
 **Reno0213/Reno0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
