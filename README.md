@@ -1,11 +1,9 @@
 ## About Me:
 👋 Hi there! I'm Renojan (Reno) Kannan, a passionate 4th-year Computer Science student at the University of Ottawa. I'm currently working under Professor Amir Razavi from the University of Ottawa, immersing myself in the world of natural language processing and deep learning. As I finish up my last semester, I am on the hunt for full-time SWE and AI/ML Developer Roles!
 
-🚀<strong>What I'm Currently Working On:</strong>
-- Fine-Tuning LLMs for Phishing Email Detection and Explanation using NLP.
+🚀<strong>What I'm Currently Working On:</strong>\- Fine-Tuning LLMs for Phishing Email Detection and Explanation using NLP.
 
-📚 <strong>What I'm Learning:</strong>
-- TensorFlow and Scikit-learn for machine learning applications.
+📚 <strong>What I'm Learning:</strong>\- TensorFlow and Scikit-learn for machine learning applications.
 
 💡 <strong>Ask Me About:</strong>
 
@@ -16,7 +14,6 @@
 
 ### Frameworks & Web  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ### Databases  
