@@ -1,14 +1,15 @@
 ## About Me:
 <p>
-👋 Hi there! I'm Renojan (Reno) Kannan, a passionate 4th-year Computer Science student at the University of Ottawa. I'm currently working under Professor Amir Razavi from the University of Ottawa, immersing myself in the world of natural language processing and deep learning.
+👋 Hi there! I'm Renojan (Reno) Kannan, a passionate 4th-year Computer Science student at the University of Ottawa. I'm currently working under Professor Amir Razavi from the University of Ottawa, immersing myself in the world of natural language processing and deep learning. As I finish up my last semester, I am on the hunt for full-time SWE and AI/ML Developer Roles!
 
 🚀<strong>What I'm Currently Working On:</strong>
 <br />
-"- Fine-Tuning LLMs for Phishing Email Detection and Explanation using NLP."
-<br>
+- Fine-Tuning LLMs for Phishing Email Detection and Explanation using NLP.
+<br />
 📚 **What I'm Learning:**
-"- TensorFlow and Scikit-learn for machine learning applications."
-<br>
+<br />
+- TensorFlow and Scikit-learn for machine learning applications.
+<br />
 💡 **Ask Me About:**
 </p>
 
