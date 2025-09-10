@@ -6,8 +6,11 @@ Hi there! I'm Renojan (Reno) Kannan, a passionate 4th-year Computer Science stud
 
 📚 **What I'm Learning:**
 - TensorFlow and Scikit-learn for machine learning applications.
+- Exploring cloud deployment strategies (AWS, Azure, GCP) for scalable ML and web apps.
 
 💡 **Ask Me About:**
+- Designing end-to-end AI pipelines (data preprocessing → model training → evaluation → deployment).
+- The best places to eat in Toronto, Ottawa, New York, Texas and California 🥩
 
 ## 🛠️ Tech Stack 
 
